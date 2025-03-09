@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://github.com/Rajan-IT/Benutzer-mit-Powershell/blob/main/powershell.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Erstellen von Benutzern mit PowerShell</h1>
+In diesem Tutorial habe ich 50 Benutzer mit einem PowerShell-Skript erstellt <br />
 
 
 <h2>Video Demonstration</h2>
