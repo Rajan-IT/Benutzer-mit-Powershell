@@ -5,23 +5,17 @@
 <h1>Erstellen von Benutzern mit PowerShell</h1>
 In diesem Tutorial habe ich 50 Benutzer mit einem PowerShell-Skript erstellt <br />
 
+- ### [Link zum Video](https://drive.google.com/drive/folders/1tjdsFZNII2thk1yHTefP5d1GLVxLVtyZ?usp=drive_link)
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
+<h2>Environments und verwendete Technologien</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Powershell
 
-<h2>Operating Systems Used </h2>
+<h2>Verwendete Betriebssysteme</h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows Server 2022
 
 <h2>High-Level Steps</h2>
 
